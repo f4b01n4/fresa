@@ -15,7 +15,7 @@ Vai a **[Releases](../../releases/latest)** e escolhe o ficheiro do teu sistema:
 |---|---|---|
 | macOS 11+ (Intel e Apple silicon) | `Fresa_<versão>_universal.dmg` | na aplicação |
 | Windows 10/11 | `Fresa_<versão>_x64-setup.exe` (ou `.msi`) | na aplicação (setup.exe) |
-| Linux | `Fresa_<versão>_amd64.AppImage` (ou `.deb` / `.rpm`) | na aplicação (AppImage) |
+| Linux | `Fresa_<versão>_amd64.AppImage` (ou `.deb`) | na aplicação (AppImage) |
 
 Depois de instalado, o Fresa procura novas versões sozinho e instala-as com um
 clique (Definições → Atualizações) — não é preciso voltar a descarregar.
