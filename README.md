@@ -89,6 +89,16 @@ A Two Trees TTC3018Pro with an MKS DLC32 running FluidNC, a 30° V-bit, 1 mm bit
 crocodile-clip probe. If it works there, it works on most 3018-class machines; bigger
 machines (Genmitsu 4040, LongMill, Shapeoko) are in the machine library.
 
+## Support Fresa
+
+Fresa is free and PCB milling will stay free. If it saved you a board or an evening,
+a coffee pays for the V-bits I keep snapping and for the next feature:
+
+<p>
+  <a href="https://ko-fi.com/f4b01n4"><img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-support-ff5e5b?logo=ko-fi&logoColor=white"></a>
+  <a href="https://buymeacoffee.com/f4b01n4"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-ffdd00?logo=buymeacoffee&logoColor=black"></a>
+</p>
+
 ## Feedback
 
 Found a bug, have a board that comes out wrong, own a machine Fresa should know?

@@ -93,6 +93,16 @@ Uma Two Trees TTC3018Pro com uma MKS DLC32 a correr FluidNC, um V-bit de 30°, b
 classe 3018; máquinas maiores (Genmitsu 4040, LongMill, Shapeoko) estão na biblioteca de
 máquinas.
 
+## Apoiar o Fresa
+
+O Fresa é gratuito e a fresagem de PCBs vai continuar a sê-lo. Se te poupou uma placa ou
+um serão, um café paga os V-bits que continuo a partir e a próxima funcionalidade:
+
+<p>
+  <a href="https://ko-fi.com/f4b01n4"><img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-apoiar-ff5e5b?logo=ko-fi&logoColor=white"></a>
+  <a href="https://buymeacoffee.com/f4b01n4"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-apoiar-ffdd00?logo=buymeacoffee&logoColor=black"></a>
+</p>
+
 ## Opiniões e problemas
 
 Encontraste um erro, tens uma placa que sai mal, tens uma máquina que o Fresa devia
